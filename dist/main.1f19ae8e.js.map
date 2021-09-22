@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["windows","dom","create","div"],"mappings":"AAAAA,OAAO,CAACC,GAAR,CAAYC,MAAZ,CAAmBC,GAAnB","file":"main.1f19ae8e.js","sourceRoot":"..","sourcesContent":["windows.dom.create(div)\r\n"]}
